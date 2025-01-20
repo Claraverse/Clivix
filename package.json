@@ -1,10 +1,10 @@
 {
   "private": true,
-  "name": "Clivax",
+  "name": "clivax",
   "version": "1.2.0",
   "description": "",
   "main": "gulpfile.js",
-  "author": "Codubucks",
+  "author": "Claraverse",
   "browserslist": [
     "last 2 version",
     "> 2%"
